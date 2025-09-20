@@ -26,6 +26,6 @@ facc k INDEX
 Install the binary using `cargo`:
 
 ```shell
-cargo install
+cargo install --git https://github.com/malteherrmann/facc
 ```
 
